@@ -1,0 +1,40 @@
+i{
+  color: white;
+}
+nav{
+  
+  padding:0px 20px 1px 1px;
+  background:	#5f9ea0;
+  display:flex;
+  justify-content:space-between;
+  
+  
+
+}
+
+
+a:link {
+  
+  color: #f8f8ff;
+  text-decoration:none;
+}
+
+a:hover:{
+  color:#f8f8ff;
+}
+
+a:visited{
+  color:#f8f8ff;
+}
+
+
+.first a{
+ display:inline-block;
+ margin:10px;
+  
+}
+
+.second a{
+  display:inline-block;
+  margin: 10px;
+}
